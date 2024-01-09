@@ -1,0 +1,14 @@
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\bin\Debug\net8.0\BMICalculator.exe
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\bin\Debug\net8.0\BMICalculator.deps.json
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\bin\Debug\net8.0\BMICalculator.runtimeconfig.json
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\bin\Debug\net8.0\BMICalculator.dll
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\bin\Debug\net8.0\BMICalculator.pdb
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\obj\Debug\net8.0\BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\obj\Debug\net8.0\BMICalculator.AssemblyInfoInputs.cache
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\obj\Debug\net8.0\BMICalculator.AssemblyInfo.cs
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\obj\Debug\net8.0\BMICalculator.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\obj\Debug\net8.0\BMICalculator.dll
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\obj\Debug\net8.0\refint\BMICalculator.dll
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\obj\Debug\net8.0\BMICalculator.pdb
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\obj\Debug\net8.0\BMICalculator.genruntimeconfig.cache
+D:\FPT_Learning\PRN211\PRN211_NET1702\Session02-Language\HealthyandFate\BMICalculator\obj\Debug\net8.0\ref\BMICalculator.dll
