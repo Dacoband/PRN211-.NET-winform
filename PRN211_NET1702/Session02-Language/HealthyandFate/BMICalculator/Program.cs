@@ -14,6 +14,7 @@
                                                         // Nếu có nhiều biến thì chừa chỗ đếm từ 0, 1, 2 
 
             Console.WriteLine("Your BMI_3 is {0} | {1}", bmi , 2024);// Nếu in nhiều biến 
+
             Console.WriteLine($"Your BMI_4 is {bmi} ");//KĨ THUẬT INTERPOLATION - Nội suy ( $_____ )
                                                      // Ráng suy nghĩ, tìm trong chuỗi
                                                      //Nếu thấy biến , tự điền Value vào 
@@ -21,6 +22,24 @@
 
             Console.WriteLine($"Your BMI_6 is {BMICalculator.GetBMI(62, 1.92)} ");
 
+            // String va string trong  C# là như nhau 
+            // Trong java chỉ có String 
+            string weightStatus = BMICalculator.EvaluateWeightStatus(bmi);
+            Console.WriteLine($"Your BMI_7 is {bmi} based on weight = 70kg & height = 1.7m \n" +
+                              $" and your weight status is {weightStatus} ");
+
+            Console.WriteLine(@$"
+Your BMI_7 is {bmi} based on weight = 70kg & height = 1.7m 
+
+and your weight status is {weightStatus} "); //kĩ thuật viết RAW (@) kĩ thuật sử dụng chuỗi nguyên bản 
+                                             //What you type í what you print & see
+                                             //Trong chuỗi gốc lên dòng xuống dòng dấu cách Kí tự đặc biệt 
+                                             // Có sao in vậy 
+                                             // Gọi là Verbatim
+
+            //Công thức giang hồ tính nhanh cân nặng phù hợp 
+            //Chiều cao theo cm - 100 -> cân nặng phù hợp 
+            //1.7m -> 70kg là đẹp 
 
             Console.WriteLine("Press and key to exit...");
             Console.ReadLine();
