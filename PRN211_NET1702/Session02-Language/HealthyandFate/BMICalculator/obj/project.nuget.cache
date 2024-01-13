@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "c1Heclv4Pbxj9N3FrBXqERc7FCNEpyys5PspZddwIvXPHtYiSzYjyx/00iWIMZD/oITwUV/zb9HQHM+XtILEoA==",
+  "dgSpecHash": "Bn3zU5ZuHRiUaY9OZT20uEwNvDeeVOXFhme9S5vbfawmKopzd88gkiMt2O5R23d+WqzyqEMb0FH5X25K0f2r+g==",
   "success": true,
   "projectFilePath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session02-Language\\HealthyandFate\\BMICalculator\\BMICalculator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
