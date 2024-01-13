@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "A6c1dV0NRyAVg+WoI1904KL6nuRBbBzj843+kpAE9jJSM+ZR+jc0auhNvCbR/B2+/eoC97W46OwHyU6gDHUAXg==",
+  "success": true,
+  "projectFilePath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session02-Language\\HealthyandFate\\Math\\Math.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
