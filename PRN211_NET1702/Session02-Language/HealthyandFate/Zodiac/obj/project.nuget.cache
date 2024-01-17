@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4xuK8MD24QNks0ffiqj30axn7Uj25pdk2Z36hPzMexWQ8oezkT8dzTNJDR5eI/mTL4vWSI4c55PeRRay6PHSWw==",
+  "success": true,
+  "projectFilePath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session02-Language\\HealthyandFate\\Zodiac\\Zodiac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
