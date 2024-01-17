@@ -8,9 +8,10 @@ namespace Math
     {
         static void Main(string[] args)
         {
-            int sumA, sumE =2024;
+            int sumA, sumO =2024;
 
-           sumA = SumOddList(sumA);
+           sumA = SumOddList(ref sumO);
+            Console.WriteLine($"Sum Odd  :{0}", sumO);
         }
 
         //MUSN CHƠI VỚI RÈ THÌ BẮT BUỘC BIẾN TRUYỀN VÀO REF PHẢI CÓ 
