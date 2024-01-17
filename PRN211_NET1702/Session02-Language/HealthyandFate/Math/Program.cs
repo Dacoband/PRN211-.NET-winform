@@ -51,7 +51,12 @@ namespace Math
                 if (i % 2 == 0)
                     sumE += 1;
             }
-            sumEven = sumE ;
+            sumEven = sumE ;//TÍnh xong bên trong đổ ra ngoài 
+                            // tui hứa sẽ thêm 1 giá trị đc trả về qua ngã hướng
+                            //Tham số đầu vào 
+                            //Nếu không chiiuj làm lời hứa này, báo lỗi cú pháp 
+                            //Gán giá trị cho biến out là bắt buộc 
+                            //Luôn có giá trị trả về nếu xài hàm có out
             return sumAll;
         }
 
