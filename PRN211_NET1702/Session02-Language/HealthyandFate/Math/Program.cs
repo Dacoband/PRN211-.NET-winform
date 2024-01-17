@@ -1,6 +1,6 @@
 ﻿using Bmi; // import java.util ; bên java
            // Muốn sài đồ chơi của người ở nơi khác phải xin phép
-using System.Runtime.Intrinsics.X86;
+
 
 namespace Math
 {
