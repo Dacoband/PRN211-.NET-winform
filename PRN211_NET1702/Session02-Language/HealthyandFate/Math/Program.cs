@@ -1,96 +1,127 @@
-﻿using Bmi; // tương đương import java.util ; bên java
-           // Muốn xài đồ của project khác thì phải xin phép
+﻿using Bmi; // import java.util ; bên java
+           // Muốn sài đồ chơi của người ở nơi khác phải xin phép
+using System.Runtime.Intrinsics.X86;
 
 namespace Math
 {
     internal class Program
     {
-        //svm tab là psvm bên Java 
         static void Main(string[] args)
         {
-            CheckReadOnlyParam(1000);
-            Print100FirstIntegers();
-            int sumE;
-            int sumA = SumEvenList(out sumE);
+            int sumA, sumE =2024;
 
-            Console.WriteLine($"Sum All : {0} | Sum Evens {1}", sumA ,sumE);
+           sumA = SumOddList(sumA);
         }
 
-        //tui cần in ra 100 số tự nhiên liên tiếp bắt đầu từ 1 
-        static void Print100FirstIntegers()
+        //MUSN CHƠI VỚI RÈ THÌ BẮT BUỘC BIẾN TRUYỀN VÀO REF PHẢI CÓ 
+        //1 GIÁ TRỊ DEFAULT NÀO ĐÓ, INITIAL VALUE 
+        //NẾU TRONG HÀM CÓ GSN BIẾN REF, THÌ TA ĐÈ VALUE DEFAULT 
+        //NẾU TRONG HÀM QUÊN KHÔNG GÁN REF THÌ VẪN XÀI DEAFAULT 
+        //TRONG HÀM SỬA Ở BÊN NGOÀI XA VA, REF, OUT ĐỀU LÀ 
+        //PASS BY REFERENCE 
+
+
+
+        // Tính tổng các số từ 1 đến 100
+        //out 
+
+        // ref nó lỏng lẻo hơn out không bắt buộc ta phai gán 
+        //Giá trị cho biến out thich thì gắn không thích thì chử
+        public static int SumOddList(ref int sumOdd)
         {
-            Console.WriteLine(@"1 2 
-3 4 
-  5 6
-    7 8
-      9 10 11 12
-              13 14 15 16 ... ");
-            Console.WriteLine("100 first integers");
-            for (int i = 0; i < 100; i++)
-            {
-                Console.WriteLine(i + " "); // Write in so xuong hang
-            }
-        }
-        // Tính tổng các số từ 1 ... 100 ->5050
-        public int SumIntegerList()
-        {
-            int sumAll = 0;
-            for (int i = 0;i < 100;i++)
-                sumAll += i;
-            
-            return sumAll;
-        }
-        //Tính tổng số chẵn 1 ... 10 
-        public static int SumEvenList(out int sumEven)
-        {
-            int sumE = 0 ; 
-            int sumAll = 0;
-            for(int i = 0; i<= 10 ; i++)
+            int sumAll = 0, sumO = 0;
+            for (int i = 1; i <= 100; i++)
             {
                 sumAll += i;
                 if (i % 2 == 0)
-                    sumE += 1;
+                    sumO += i;
             }
-            sumEven = sumE ;//TÍnh xong bên trong đổ ra ngoài 
-                            // tui hứa sẽ thêm 1 giá trị đc trả về qua ngã hướng
-                            //Tham số đầu vào 
-                            //Nếu không chiiuj làm lời hứa này, báo lỗi cú pháp 
-                            //Gán giá trị cho biến out là bắt buộc 
-                            //Luôn có giá trị trả về nếu xài hàm có out
+            sumOdd= sumO;
             return sumAll;
         }
-
-        static void CheckReadOnlyParam(int n)
+        // tui cần tính in ra 100 con số tự nhiên đếm được từ 1 liên tiếp 
+        static void Print100FirstIntegers()
         {
-            Console.WriteLine($"n before changing its value : {n} ");
-            //n = 2024; // change the value of n 
-            int m = n; // từ khóa in đứng kế bên biến bên local ở tham số 
-                // hàm, biến hóa biến n kế bên thành readOnly, có nghĩa là 
-                // trong hàm từ nay cấm được thay đổi value của tham số 
-                //biến readOnly mức local - mức tham số 
-
-                //To do at home : Static void CheckReadOnlyParam(in Student s)
-                //biến đưa vào là biến object, trỏ 1 vùng new 
-            Console.WriteLine($"n after updating its value: {n}");
+            Console.WriteLine(@"12 
+     3 4 
+         5 6
+             7 8
+                 9 10
+                      11 12 13 14 15 .....");
+            Console.WriteLine(" 100 first integers");
+            for (int i = 0; i < 100; i++)
+            {
+                Console.Write(i + " ");
+            }
 
         }
-        // Mantra : thần chú : static chỉ chơi với static
-        // Lý do : public class student {static string name; }
-        // toàn đối tượng sẽ bị xài chung tên với nhau hết !!!
-        // Ôn kĩ về static trên YT
-        // Static sẽ còn dùng cho Desgin Patterns, ví dụ Singleton 
+        static void ChecReadOnlyPram(in int n)
+        {
+            Console.WriteLine($"before changeing it value :{n}");
+            // n = 2024;
 
-         
+            int m = n; // từ khoa in đứng kế bên biến local ở tham số
+            //ham biến hóa biến n kê bên thành readonly , có nghĩa là
+            //biến readonly mức local - mức tham số
+            // về  nhà : static void CheckReadOnlyParam{ in Student s}
+            // biến đưa vào là biến object trỏ 1 vùng new 
+            Console.WriteLine($"After updating is value :{n}");
+        }
         //static void Main(string[] args)
         //{
         //    Console.WriteLine("Hello, World!");
 
-        //    double bmi =  BMICalculator.GetBMI(62, 17.3);
-        //    //Xafi thư viện do mình viết ra 
-        //    // Gọi hàm của class khác ở namespace khác ở project khác 
-        //    // ở DLL khác .
-        //    Console.WriteLine($"Your weight status: {BMICalculator.EvaluateWeightStatus(bmi)}");
+        //    double bmi = BmiCaculator.GetBMI(55, 1.73);
+
+        //    // Sài thư viện do mình viết ra 
+        //    //Gọi hàm của class khác ở namespace khác ở project khác
+        //    // ở dll khác
+
+        //    Console.WriteLine($"Your Weight Status : {BmiCaculator.EvalueateWeightStatus(bmi)} ");
+        //}
+
+
+        // mantra : Thần chú static chỉ chơi với static 
+        //Lý do : public class Student { static String name; }
+        // Toàn trường sài chung 1 tên vc !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+        //ôn kĩ static trên youtube vì nó còn đuọcw dùng cho 
+        //DESIGN PATTERNS ,VÍ DỤ :Singleton
+
+        //Out : Tôi hứa sẽ có 1 giá trị thêm được trả về qua hướng tham số đầu vào
+        //Nếu không chịu làm lời hưa này => báo lỗi cú pháp 
+        //Gán giá trị out là bắt buộc 
+        //Luôn có giá trị trả về nếu sài hàm out
+
+        //Trong hàm thay đổi bên ngoài bị ảnh hưởng khác truyền thống => Đây là kĩ thuật truyền tham chiếu theo style tham chiều
+        //PASS BY REFERENCE 
+        //TAO ĐƯA M 1 BIẾN NGOÀI HÀM , TRONG HÀM M ĐỔI VALUE GIÙM TAO 
+        //Những gì trong hàm , bên ngoài bị luôn ,
+
+        //Khác truyền thống : Pass by value , Tao chỉ láy value m đưa sau đó không care m
+
+
+
+        // svm tab giống java
+        //static void Main(string[] args)
+        //{
+        //    ChecReadOnlyPram(10);
+        //    Print100FirstIntegers();
+        //    int sumE;
+        //    int sumA = SumIntegersList(out sumE);
+        //    Console.WriteLine($"Sum of all integers: {sumA}");
+        //    Console.WriteLine($"Sum of even integers: {sumE}");
+
+        //    //OUT có 2 cách sài //Truyền nó vào hàm out
+        //    //Cách 2 : Vừa khai báo vừa truyền vào hàm out 
+        //    sumA = SumIntegersList(out int sumEven);
+        //    Console.WriteLine($"Sum Even: {sumEven} ");
+
+
+
 
         //}
+
+
+
     }
 }
