@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Zodiac</name>
+    </assembly>
+    <members>
+        <member name="T:Zodiac.ZodiacCalculator">
+            <summary>
+            This class will return the zodiac sign based on the day and month of birth, both in English and Vietnamese
+            </summary>
+        </member>
+        <member name="M:Zodiac.ZodiacCalculator.GetZodiacEnglish(System.Int32,System.Int32)">
+            <summary>
+            This method will return the zodiac sign in English based on day and month of birth 
+            </summary>
+            <param name="day">Day must be between 1...31</param>
+            <param name="month">Month must be between 1...12</param>
+            <returns></returns>
+        </member>
+        <member name="M:Zodiac.ZodiacCalculator.GetZodiacVietnamese(System.String)">
+            <summary>
+            This method converts/translates English zodiac sign to Vietnamese zodiac sign 
+            </summary>
+            <param name="zodiacEnglish">zodiac sign in English</param>
+            <returns>The zodiac sign in Vietnamese</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,14 @@
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\bin\Debug\net6.0\Zodiac.deps.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\bin\Debug\net6.0\Zodiac.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\bin\Debug\net6.0\Zodiac.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\bin\Debug\net6.0\Zodiac.xml
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\obj\Debug\net6.0\Zodiac.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\obj\Debug\net6.0\Zodiac.AssemblyInfoInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\obj\Debug\net6.0\Zodiac.AssemblyInfo.cs
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\obj\Debug\net6.0\Zodiac.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\obj\Debug\net6.0\Zodiac.sourcelink.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\obj\Debug\net6.0\Zodiac.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\obj\Debug\net6.0\refint\Zodiac.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\obj\Debug\net6.0\Zodiac.xml
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\obj\Debug\net6.0\Zodiac.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\Zodiac\obj\Debug\net6.0\ref\Zodiac.dll
