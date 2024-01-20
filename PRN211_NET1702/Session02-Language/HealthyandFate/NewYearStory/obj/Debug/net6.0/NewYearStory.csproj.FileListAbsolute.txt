@@ -18,3 +18,5 @@ D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\Healthyan
 D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\NewYearStory\obj\Debug\net6.0\NewYearStory.pdb
 D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\NewYearStory\obj\Debug\net6.0\NewYearStory.genruntimeconfig.cache
 D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\NewYearStory\obj\Debug\net6.0\ref\NewYearStory.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\NewYearStory\bin\Debug\net6.0\BMICalculator.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session02-Language\HealthyandFate\NewYearStory\bin\Debug\net6.0\BMICalculator.pdb

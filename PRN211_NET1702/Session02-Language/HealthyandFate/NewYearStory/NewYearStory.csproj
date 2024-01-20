@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Reference Include="BMICalculator">
+      <HintPath>..\BMICalculator\bin\Debug\net6.0\BMICalculator.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Zodiac">
       <HintPath>..\Zodiac\bin\Debug\net6.0\Zodiac.dll</HintPath>
       <Private>True</Private>
