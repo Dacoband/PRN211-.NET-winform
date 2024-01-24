@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zodiac", "Zodiac\Zodiac.csproj", "{E9366875-06BC-4455-BCC0-FEFFF5677ACF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYearStory", "NewYearStory\NewYearStory.csproj", "{24020F77-E95D-4141-B180-2B082573E9F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewYearStory", "NewYearStory\NewYearStory.csproj", "{24020F77-E95D-4141-B180-2B082573E9F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testWinform", "testWinform\testWinform.csproj", "{67AE3779-946B-4F9D-969B-67D3AA9BAD66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{24020F77-E95D-4141-B180-2B082573E9F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24020F77-E95D-4141-B180-2B082573E9F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24020F77-E95D-4141-B180-2B082573E9F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67AE3779-946B-4F9D-969B-67D3AA9BAD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AE3779-946B-4F9D-969B-67D3AA9BAD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AE3779-946B-4F9D-969B-67D3AA9BAD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AE3779-946B-4F9D-969B-67D3AA9BAD66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

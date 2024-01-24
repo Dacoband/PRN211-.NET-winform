@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "testWinform/1.0.0": {
+        "dependencies": {
+          "BMICalculator": "1.0.0",
+          "Zodiac": "1.0.0"
+        },
+        "runtime": {
+          "testWinform.dll": {}
+        }
+      },
+      "BMICalculator/1.0.0": {
+        "runtime": {
+          "BMICalculator.dll": {}
+        }
+      },
+      "Zodiac/1.0.0": {
+        "runtime": {
+          "Zodiac.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testWinform/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BMICalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zodiac/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
