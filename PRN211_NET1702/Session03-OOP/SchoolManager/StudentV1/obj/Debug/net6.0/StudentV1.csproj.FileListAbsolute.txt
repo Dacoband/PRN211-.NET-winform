@@ -1,0 +1,15 @@
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\bin\Debug\net6.0\StudentV1.exe
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\bin\Debug\net6.0\StudentV1.deps.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\bin\Debug\net6.0\StudentV1.runtimeconfig.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\bin\Debug\net6.0\StudentV1.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\bin\Debug\net6.0\StudentV1.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\obj\Debug\net6.0\StudentV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\obj\Debug\net6.0\StudentV1.AssemblyInfoInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\obj\Debug\net6.0\StudentV1.AssemblyInfo.cs
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\obj\Debug\net6.0\StudentV1.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\obj\Debug\net6.0\StudentV1.sourcelink.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\obj\Debug\net6.0\StudentV1.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\obj\Debug\net6.0\refint\StudentV1.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\obj\Debug\net6.0\StudentV1.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\obj\Debug\net6.0\StudentV1.genruntimeconfig.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session03-OOP\SchoolManager\StudentV1\obj\Debug\net6.0\ref\StudentV1.dll
