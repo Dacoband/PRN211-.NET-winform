@@ -16,7 +16,8 @@ namespace Bmi
         // Và public/private/protected/default - không gõ từ khóa / internal 
         // được gọi chung là : Accessor, Accessor Modifier, Access Specifier.
 
-        public static double GetBMI(double weight, double height) => weight / (height * height); // Kiểu viết theo kiểu Expression Body 
+        public static double GetBMI
+            (double weight, double height) => weight / (height * height); // Kiểu viết theo kiểu Expression Body 
 
         public static string EvaluateWeightStatus(double bmi)
         {
