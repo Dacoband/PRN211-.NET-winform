@@ -55,8 +55,8 @@ Name: {_name}
 Email: {_email}
 Yob: {_yob}
 GPA: {_gpa}");
-        }// verbatim interpolation
+        }// verbatim interpolation : Giữ chuổi nguyên bản
 
-        
+
     }
 }

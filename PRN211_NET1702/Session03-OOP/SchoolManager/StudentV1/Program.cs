@@ -30,12 +30,17 @@ namespace StudentV1
 
         static void CreateAStudentObjectV3()
         {
+            //Style new kiểu mới 
+            // bỏ kiểu dữ liệu sau new vì đã có data type rồi 
             Student Bao = new ("SE171317", "BaoNDG", "Bao@fpt.edu.vn", 2003, 1.0);
             Bao.ShowProfile();
+            // tự xuy luận nhật là student  do value gắn vào 
         }
 
         static void CreateAStudentObjectV4()
         {
+            // Lộn xộn đưa value vào hàm lộn xộn thứu tự, miễ là đi kèm tên biến máy runtime biết để map value cho đúng 
+            //NAMED_ARGUMENT , ĐƯA VALUE KÈM TÊN THAM SỐ
             var Nhan = new Student("SE171117", "NhanHT", "Nhan@fpt.edu.vn", 2003, 5.0);
             Nhan.ShowProfile();
         }
