@@ -5,13 +5,15 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentV1", "StudentV1\StudentV1.csproj", "{24F71FCE-BBCB-4824-8449-4C08B02F2DA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentV2", "StudentV2\StudentV2.csproj", "{852F5D02-B09D-4841-B784-A027D3763362}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentV2", "StudentV2\StudentV2.csproj", "{852F5D02-B09D-4841-B784-A027D3763362}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentV3", "StudentV3\StudentV3.csproj", "{65930663-5D34-40DB-88E4-DF03A060ED1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentV3", "StudentV3\StudentV3.csproj", "{65930663-5D34-40DB-88E4-DF03A060ED1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentV4", "StudentV4\StudentV4.csproj", "{BFF75C2E-62C1-4F36-98DF-23AB3F5DFF92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentV4", "StudentV4\StudentV4.csproj", "{BFF75C2E-62C1-4F36-98DF-23AB3F5DFF92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentV5", "StudentV5\StudentV5.csproj", "{2FAEDFBB-6DC6-42B0-BEC2-D2E3F32990D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentV5", "StudentV5\StudentV5.csproj", "{2FAEDFBB-6DC6-42B0-BEC2-D2E3F32990D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentV6", "StudentV6\StudentV6.csproj", "{76746CAC-9223-4EFE-A849-A25029E12EDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2FAEDFBB-6DC6-42B0-BEC2-D2E3F32990D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FAEDFBB-6DC6-42B0-BEC2-D2E3F32990D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FAEDFBB-6DC6-42B0-BEC2-D2E3F32990D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76746CAC-9223-4EFE-A849-A25029E12EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76746CAC-9223-4EFE-A849-A25029E12EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76746CAC-9223-4EFE-A849-A25029E12EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76746CAC-9223-4EFE-A849-A25029E12EDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
