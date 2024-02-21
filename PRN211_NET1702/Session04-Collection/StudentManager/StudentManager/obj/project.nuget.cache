@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P5odanteDwzejcL+hLZhZRZedt9GBExj6xluU2PaNV3V0LM0jUSuMDehoBAdLrnR3gatXq116Wd/AmaBDApxWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bolic\\Downloads\\Session04-Collection\\Session04-Collection\\StudentManager\\StudentManager\\StudentManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
