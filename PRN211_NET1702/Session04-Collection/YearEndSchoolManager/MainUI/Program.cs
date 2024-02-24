@@ -20,7 +20,7 @@ namespace MainUI
             seList.AddItem(new Student()
             {
                 Id = "SE1",
-                Name = "Do The Hieu",
+                Name = "Nguyen Duong Gia Bao",
                 Email = "hieudtse170041@fpt.edu.vn",
                 Yob = 2003,
                 Gpa = 8.0

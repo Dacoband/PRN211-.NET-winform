@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5QNUe0UPjJAUcGMVMHh270HOK67+KyQ/ULZ0d+m4CsA15HNQpDrl+kbQL7Eyj6/ENxAl8Pnxv6apTczdfSDvUw==",
+  "dgSpecHash": "OHpT8fp5n8yikPB1FlOy2fSrYc3n6CxjBnVuLVIu3TBLENhoEVIGehnS4/noEv1zvqJtm/BePyZDQ74qc/QJNQ==",
   "success": true,
-  "projectFilePath": "D:\\FPTU\\Semester_5\\PRN211\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\SevicesV2\\SevicesV2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\YearEndSchoolManager\\SevicesV2\\SevicesV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPTU\\Semester_5\\PRN211\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\Services\\Services.csproj": {}
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\YearEndSchoolManager\\Services\\Services.csproj": {}
   },
   "projects": {
-    "D:\\FPTU\\Semester_5\\PRN211\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\Repositories\\Repositories.csproj": {
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\YearEndSchoolManager\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPTU\\Semester_5\\PRN211\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\YearEndSchoolManager\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\FPTU\\Semester_5\\PRN211\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\namnlp\\.nuget\\packages\\",
-        "outputPath": "D:\\FPTU\\Semester_5\\PRN211\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\Repositories\\obj\\",
+        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\YearEndSchoolManager\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\YearEndSchoolManager\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\namnlp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -49,40 +50,55 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FPTU\\Semester_5\\PRN211\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\Services\\Services.csproj": {
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\YearEndSchoolManager\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPTU\\Semester_5\\PRN211\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\YearEndSchoolManager\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\FPTU\\Semester_5\\PRN211\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\namnlp\\.nuget\\packages\\",
-        "outputPath": "D:\\FPTU\\Semester_5\\PRN211\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\Services\\obj\\",
+        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\YearEndSchoolManager\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\YearEndSchoolManager\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\namnlp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\FPTU\\Semester_5\\PRN211\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\FPTU\\Semester_5\\PRN211\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\Repositories\\Repositories.csproj"
+              "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\YearEndSchoolManager\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\YearEndSchoolManager\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -107,12 +123,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

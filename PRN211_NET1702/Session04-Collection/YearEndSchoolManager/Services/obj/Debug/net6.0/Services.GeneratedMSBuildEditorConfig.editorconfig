@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Services
-build_property.ProjectDir = D:\FPTU\Semester_5\PRN211\Session04-Collection\Session04-Collection\YearEndSchoolManager\Services\
+build_property.ProjectDir = D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session04-Collection\YearEndSchoolManager\Services\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

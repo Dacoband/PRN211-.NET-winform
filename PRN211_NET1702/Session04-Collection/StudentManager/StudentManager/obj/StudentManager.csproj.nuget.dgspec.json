@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bolic\\Downloads\\Session04-Collection\\Session04-Collection\\StudentManager\\StudentManager\\StudentManager.csproj": {}
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\StudentManager\\StudentManager\\StudentManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bolic\\Downloads\\Session04-Collection\\Session04-Collection\\StudentManager\\StudentManager\\StudentManager.csproj": {
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\StudentManager\\StudentManager\\StudentManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bolic\\Downloads\\Session04-Collection\\Session04-Collection\\StudentManager\\StudentManager\\StudentManager.csproj",
+        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\StudentManager\\StudentManager\\StudentManager.csproj",
         "projectName": "StudentManager",
-        "projectPath": "C:\\Users\\bolic\\Downloads\\Session04-Collection\\Session04-Collection\\StudentManager\\StudentManager\\StudentManager.csproj",
+        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\StudentManager\\StudentManager\\StudentManager.csproj",
         "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bolic\\Downloads\\Session04-Collection\\Session04-Collection\\StudentManager\\StudentManager\\obj\\",
+        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session04-Collection\\StudentManager\\StudentManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
