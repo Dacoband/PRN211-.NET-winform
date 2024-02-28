@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\FPT\\05-SPRING2024\\PRN211\\Session05-Delegate\\DelegateInsideOut\\DelegateReview.AnonymousFunc\\DelegateReview.AnonymousFunc.csproj": {}
+  },
+  "projects": {
+    "D:\\FPT\\05-SPRING2024\\PRN211\\Session05-Delegate\\DelegateInsideOut\\DelegateReview.AnonymousFunc\\DelegateReview.AnonymousFunc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FPT\\05-SPRING2024\\PRN211\\Session05-Delegate\\DelegateInsideOut\\DelegateReview.AnonymousFunc\\DelegateReview.AnonymousFunc.csproj",
+        "projectName": "DelegateReview.AnonymousFunc",
+        "projectPath": "D:\\FPT\\05-SPRING2024\\PRN211\\Session05-Delegate\\DelegateInsideOut\\DelegateReview.AnonymousFunc\\DelegateReview.AnonymousFunc.csproj",
+        "packagesPath": "C:\\Users\\hoanghamhoc\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\05-SPRING2024\\PRN211\\Session05-Delegate\\DelegateInsideOut\\DelegateReview.AnonymousFunc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hoanghamhoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
