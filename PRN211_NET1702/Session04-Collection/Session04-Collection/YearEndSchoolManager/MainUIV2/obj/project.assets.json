@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
+      },
+      "SevicesV2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SevicesV2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SevicesV2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
+    },
+    "SevicesV2/1.0.0": {
+      "type": "project",
+      "path": "../SevicesV2/SevicesV2.csproj",
+      "msbuildProject": "../SevicesV2/SevicesV2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SevicesV2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\THY\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\PRN211\\PRN211_NET1702\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\MainUIV2\\MainUIV2.csproj",
+      "projectName": "MainUIV2",
+      "projectPath": "D:\\PRN211\\PRN211_NET1702\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\MainUIV2\\MainUIV2.csproj",
+      "packagesPath": "C:\\Users\\THY\\.nuget\\packages\\",
+      "outputPath": "D:\\PRN211\\PRN211_NET1702\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\MainUIV2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\THY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\PRN211\\PRN211_NET1702\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\SevicesV2\\SevicesV2.csproj": {
+              "projectPath": "D:\\PRN211\\PRN211_NET1702\\Session04-Collection\\Session04-Collection\\YearEndSchoolManager\\SevicesV2\\SevicesV2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
