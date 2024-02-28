@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DelegateReview.LambdaExpressV2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b22b28eddbad4373b37dbc01ee551442b115a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DelegateReview.LambdaExpressV2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DelegateReview.LambdaExpressV2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

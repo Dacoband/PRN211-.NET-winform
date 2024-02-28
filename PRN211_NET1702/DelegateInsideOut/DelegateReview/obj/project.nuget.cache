@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "g7+9JWEnadolfyYp9JeXPzcsnxDlzzMaZasyrogWJ+3iRBZohWAy8WfXNsHORo3RmGyoSaE1p+juC+VB0rBVGw==",
+  "dgSpecHash": "MLzAMhIlOGAPonpS+fFn14YVnVC+YOKbx8lddD0rHqJ7gbLHWLDTupTjtmKMaDogaGHxk5sXtzN38X6awQCYSA==",
   "success": true,
-  "projectFilePath": "D:\\FPT\\05-SPRING2024\\PRN211\\Session05-Delegate\\DelegateInsideOut\\DelegateReview\\DelegateReview.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview\\DelegateReview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT\\05-SPRING2024\\PRN211\\Session05-Delegate\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj": {}
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj": {}
   },
   "projects": {
-    "D:\\FPT\\05-SPRING2024\\PRN211\\Session05-Delegate\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj": {
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\05-SPRING2024\\PRN211\\Session05-Delegate\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj",
+        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj",
         "projectName": "DelegateReview.LambdaExpressV2",
-        "projectPath": "D:\\FPT\\05-SPRING2024\\PRN211\\Session05-Delegate\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj",
-        "packagesPath": "C:\\Users\\hoanghamhoc\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\05-SPRING2024\\PRN211\\Session05-Delegate\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\obj\\",
+        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj",
+        "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hoanghamhoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -49,12 +50,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

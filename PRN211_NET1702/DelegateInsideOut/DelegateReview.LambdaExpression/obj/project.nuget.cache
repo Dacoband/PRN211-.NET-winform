@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "l6DSkvbFnPdBBq9BoY0HOeR9K0YXqk1mVldzHIvjRpNI2tP9GZuGCZP2nsk/N3Xd6apu4pH9/RHvB+2jwDf2AA==",
+  "dgSpecHash": "pqpMFHBpHWKtBYIUEmk4w2jbISsWywaunOPwDAdnx4jYXbOqB6sEkimsXk5ah53j8CcLFHSXhA8a25tRNFs21g==",
   "success": true,
-  "projectFilePath": "D:\\FPT\\05-SPRING2024\\PRN211\\Session05-Delegate\\DelegateInsideOut\\DelegateReview.LambdaExpression\\DelegateReview.LambdaExpression.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpression\\DelegateReview.LambdaExpression.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
