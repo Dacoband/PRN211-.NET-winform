@@ -1,0 +1,15 @@
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\bin\Debug\net6.0\ActionDelegate.exe
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\bin\Debug\net6.0\ActionDelegate.deps.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\bin\Debug\net6.0\ActionDelegate.runtimeconfig.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\bin\Debug\net6.0\ActionDelegate.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\bin\Debug\net6.0\ActionDelegate.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\obj\Debug\net6.0\ActionDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\obj\Debug\net6.0\ActionDelegate.AssemblyInfoInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\obj\Debug\net6.0\ActionDelegate.AssemblyInfo.cs
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\obj\Debug\net6.0\ActionDelegate.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\obj\Debug\net6.0\ActionDelegate.sourcelink.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\obj\Debug\net6.0\ActionDelegate.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\obj\Debug\net6.0\refint\ActionDelegate.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\obj\Debug\net6.0\ActionDelegate.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\obj\Debug\net6.0\ActionDelegate.genruntimeconfig.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\DelegateInsideOut\BuiltlnDelegates\ActionDelegate\obj\Debug\net6.0\ref\ActionDelegate.dll
