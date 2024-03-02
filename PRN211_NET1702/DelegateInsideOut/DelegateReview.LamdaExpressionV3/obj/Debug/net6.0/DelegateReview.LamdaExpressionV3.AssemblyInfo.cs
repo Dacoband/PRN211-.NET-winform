@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DelegateReview.LamdaExpressionV3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b22b28eddbad4373b37dbc01ee551442b115a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97de4c69b9acd1cadc5db6a3299d50975bd91d23")]
 [assembly: System.Reflection.AssemblyProductAttribute("DelegateReview.LamdaExpressionV3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DelegateReview.LamdaExpressionV3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
