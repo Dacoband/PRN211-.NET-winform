@@ -1,0 +1,30 @@
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/bin/Debug/net6.0/PassByDelegateV1
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/bin/Debug/net6.0/PassByDelegateV1.deps.json
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/bin/Debug/net6.0/PassByDelegateV1.runtimeconfig.json
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/bin/Debug/net6.0/PassByDelegateV1.dll
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/bin/Debug/net6.0/PassByDelegateV1.pdb
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/obj/Debug/net6.0/PassByDelegateV1.csproj.AssemblyReference.cache
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/obj/Debug/net6.0/PassByDelegateV1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/obj/Debug/net6.0/PassByDelegateV1.AssemblyInfoInputs.cache
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/obj/Debug/net6.0/PassByDelegateV1.AssemblyInfo.cs
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/obj/Debug/net6.0/PassByDelegateV1.csproj.CoreCompileInputs.cache
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/obj/Debug/net6.0/PassByDelegateV1.dll
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/obj/Debug/net6.0/refint/PassByDelegateV1.dll
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/obj/Debug/net6.0/PassByDelegateV1.pdb
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/obj/Debug/net6.0/PassByDelegateV1.genruntimeconfig.cache
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV1/obj/Debug/net6.0/ref/PassByDelegateV1.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\bin\Debug\net6.0\PassByDelegateV1.exe
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\bin\Debug\net6.0\PassByDelegateV1.deps.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\bin\Debug\net6.0\PassByDelegateV1.runtimeconfig.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\bin\Debug\net6.0\PassByDelegateV1.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\bin\Debug\net6.0\PassByDelegateV1.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\obj\Debug\net6.0\PassByDelegateV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\obj\Debug\net6.0\PassByDelegateV1.AssemblyInfoInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\obj\Debug\net6.0\PassByDelegateV1.AssemblyInfo.cs
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\obj\Debug\net6.0\PassByDelegateV1.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\obj\Debug\net6.0\PassByDelegateV1.sourcelink.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\obj\Debug\net6.0\PassByDelegateV1.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\obj\Debug\net6.0\refint\PassByDelegateV1.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\obj\Debug\net6.0\PassByDelegateV1.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\obj\Debug\net6.0\PassByDelegateV1.genruntimeconfig.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211_NET1702\Session06-PassByDelegate\PassByDelegateV1\obj\Debug\net6.0\ref\PassByDelegateV1.dll

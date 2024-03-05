@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{FE12CCAE-12BC-4B12-8ADA-C74780E7D73C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PassByDelegateV3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PassByDelegateV2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PassByDelegateV1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/bin/Debug/net6.0/PassByDelegateV3
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/bin/Debug/net6.0/PassByDelegateV3.deps.json
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/bin/Debug/net6.0/PassByDelegateV3.runtimeconfig.json
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/bin/Debug/net6.0/PassByDelegateV3.dll
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/bin/Debug/net6.0/PassByDelegateV3.pdb
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/obj/Debug/net6.0/PassByDelegateV3.csproj.AssemblyReference.cache
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/obj/Debug/net6.0/PassByDelegateV3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/obj/Debug/net6.0/PassByDelegateV3.AssemblyInfoInputs.cache
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/obj/Debug/net6.0/PassByDelegateV3.AssemblyInfo.cs
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/obj/Debug/net6.0/PassByDelegateV3.csproj.CoreCompileInputs.cache
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/obj/Debug/net6.0/PassByDelegateV3.dll
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/obj/Debug/net6.0/refint/PassByDelegateV3.dll
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/obj/Debug/net6.0/PassByDelegateV3.pdb
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/obj/Debug/net6.0/PassByDelegateV3.genruntimeconfig.cache
+/Users/minat/Desktop/Semester 5/PRN211/Session05-Delegate/PassByDelegateV3/obj/Debug/net6.0/ref/PassByDelegateV3.dll
