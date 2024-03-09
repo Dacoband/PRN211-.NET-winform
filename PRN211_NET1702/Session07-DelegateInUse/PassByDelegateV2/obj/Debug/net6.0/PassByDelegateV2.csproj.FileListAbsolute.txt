@@ -1,0 +1,14 @@
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\bin\Debug\net6.0\PassByDelegateV2.exe
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\bin\Debug\net6.0\PassByDelegateV2.deps.json
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\bin\Debug\net6.0\PassByDelegateV2.runtimeconfig.json
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\bin\Debug\net6.0\PassByDelegateV2.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\bin\Debug\net6.0\PassByDelegateV2.pdb
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\obj\Debug\net6.0\PassByDelegateV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\obj\Debug\net6.0\PassByDelegateV2.AssemblyInfoInputs.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\obj\Debug\net6.0\PassByDelegateV2.AssemblyInfo.cs
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\obj\Debug\net6.0\PassByDelegateV2.csproj.CoreCompileInputs.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\obj\Debug\net6.0\PassByDelegateV2.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\obj\Debug\net6.0\refint\PassByDelegateV2.dll
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\obj\Debug\net6.0\PassByDelegateV2.pdb
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\obj\Debug\net6.0\PassByDelegateV2.genruntimeconfig.cache
+C:\Users\giao.lang\Desktop\_code.truong.lang\24.SP.PRN211\36.4.PRN211.NET1704\Session05-Delegate\DelegateInUse\PassByDelegateV2\obj\Debug\net6.0\ref\PassByDelegateV2.dll
