@@ -93,11 +93,11 @@
             // lblZodiacSign
             // 
             lblZodiacSign.AutoSize = true;
-            lblZodiacSign.Font = new Font("SimSun", 19.8000011F, FontStyle.Regular, GraphicsUnit.Point);
+            lblZodiacSign.Font = new Font("SimSun", 16.2F, FontStyle.Regular, GraphicsUnit.Point);
             lblZodiacSign.ForeColor = Color.FromArgb(128, 255, 128);
             lblZodiacSign.Location = new Point(40, 458);
             lblZodiacSign.Name = "lblZodiacSign";
-            lblZodiacSign.Size = new Size(338, 34);
+            lblZodiacSign.Size = new Size(278, 28);
             lblZodiacSign.TabIndex = 4;
             lblZodiacSign.Text = "Your Zodiac Sign is";
             // 
