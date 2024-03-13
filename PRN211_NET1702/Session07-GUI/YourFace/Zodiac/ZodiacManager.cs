@@ -31,7 +31,16 @@ namespace Zodiac
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Application.Exit();// hàm cung cấp bởi SDK tắt 1 cái app 
+            //SDK cung cấp 1 đối tượng/ class dùng để , hiển thị popup window
+            // tương đương với hàm Arlet() been JS
+            //Vậy hàm trả về giá trị tương ứng với nút nhất đã chọn. giá trị trả về của Popup là data thuộc datatype DialogResult - đoạn hội thoại có kq là gì ?
+            DialogResult answer = MessageBox.Show("Do you really want to exist?", "Exist ?", 
+                MessageBoxButtons.YesNo, MessageBoxIcon.Hand);
+            if (answer == DialogResult.Yes)
+            {
+                Application.Exit();// hàm cung cấp bởi SDK tắt 1 cái app 
+            }
+           
         }
 
         private void button3_Click(object sender, EventArgs e)
