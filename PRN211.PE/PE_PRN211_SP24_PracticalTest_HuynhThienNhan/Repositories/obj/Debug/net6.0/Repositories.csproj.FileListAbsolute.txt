@@ -1,0 +1,12 @@
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\Repositories\obj\Debug\net6.0\Repositories.sourcelink.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\Repositories\obj\Debug\net6.0\ref\Repositories.dll
