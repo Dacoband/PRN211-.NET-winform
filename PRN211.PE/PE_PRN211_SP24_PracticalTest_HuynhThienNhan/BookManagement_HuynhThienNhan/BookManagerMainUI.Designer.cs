@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BookManagerMainUI));
             lblHeader = new Label();
             grbSearchCriteria = new GroupBox();
             btnSearch = new Button();
@@ -75,7 +76,7 @@
             // btnSearch
             // 
             btnSearch.FlatStyle = FlatStyle.Flat;
-            btnSearch.ForeColor = Color.BlueViolet;
+            btnSearch.ForeColor = Color.FromArgb(255, 255, 128);
             btnSearch.Location = new Point(1017, 115);
             btnSearch.Name = "btnSearch";
             btnSearch.Size = new Size(139, 50);
@@ -139,6 +140,7 @@
             btnCreate.TabIndex = 8;
             btnCreate.Text = "Create a Book";
             btnCreate.UseVisualStyleBackColor = true;
+            btnCreate.Click += btnCreate_Click;
             // 
             // btnUpdate
             // 
@@ -170,7 +172,7 @@
             btnExit.FlatStyle = FlatStyle.Flat;
             btnExit.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point);
             btnExit.ForeColor = Color.Yellow;
-            btnExit.Location = new Point(1090, 568);
+            btnExit.Location = new Point(1090, 558);
             btnExit.Name = "btnExit";
             btnExit.Size = new Size(193, 53);
             btnExit.TabIndex = 11;
@@ -185,8 +187,10 @@
             dgvBookList.Name = "dgvBookList";
             dgvBookList.RowHeadersWidth = 51;
             dgvBookList.RowTemplate.Height = 29;
-            dgvBookList.Size = new Size(891, 309);
+            dgvBookList.Size = new Size(973, 309);
             dgvBookList.TabIndex = 7;
+            dgvBookList.CellContentClick += dgvBookList_CellContentClick;
+            dgvBookList.SelectionChanged += dgvBookList_SelectionChanged_1;
             // 
             // lblCopyRight
             // 
@@ -213,6 +217,7 @@
             Controls.Add(lblBookList);
             Controls.Add(grbSearchCriteria);
             Controls.Add(lblHeader);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "BookManagerMainUI";
             Text = "Book Manager";
             Load += Form1_Load;

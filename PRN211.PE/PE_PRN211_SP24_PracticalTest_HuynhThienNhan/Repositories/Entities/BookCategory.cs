@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Repositories.Entities
 {
-    internal class BookCategory
+    public class BookCategory
     {
+        public int BookCategoryId { get; set; }
+        public string BookGenreType { get; set; }
+        public string Description { get; set; }
     }
 }

@@ -21,3 +21,4 @@ D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_Huyn
 D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\BookManagement_HuynhThienNhan\bin\Debug\net6.0-windows\Repositories.pdb
 D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\BookManagement_HuynhThienNhan\obj\Debug\net6.0-windows\BookManagement_HuynhThienNhan.csproj.AssemblyReference.cache
 D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\BookManagement_HuynhThienNhan\obj\Debug\net6.0-windows\BookManagement_HuynhThienNhan.csproj.CopyComplete
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211.PE\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\BookManagement_HuynhThienNhan\obj\Debug\net6.0-windows\BookManagement_HuynhThienNhan.BookDetailForm.resources

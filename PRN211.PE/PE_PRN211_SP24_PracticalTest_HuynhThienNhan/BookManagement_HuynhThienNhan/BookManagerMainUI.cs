@@ -1,4 +1,5 @@
-﻿using Services;
+﻿using Repositories.Entities;
+using Services;
 
 namespace BookManagement_HuynhThienNhan
 {
@@ -15,7 +16,7 @@ namespace BookManagement_HuynhThienNhan
             BookService service = new BookService();
 
             dgvBookList.DataSource = null; // Xóa lưới về trắng trơn 
-            dgvBookList.DataSource = service.GetAllBook();
+            dgvBookList.DataSource = service.GetAllBooks();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -35,7 +36,37 @@ namespace BookManagement_HuynhThienNhan
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            
+            DialogResult answer = MessageBox.Show("Do you really want to exist?", "Exist ?",
+               MessageBoxButtons.YesNo, MessageBoxIcon.Hand);
+            if (answer == DialogResult.Yes)
+            {
+                Application.Exit();// hàm cung cấp bởi SDK tắt 1 cái app 
+            }
+        }
+
+        private void dgvBookList_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+
+        }
+
+        private void btnCreate_Click(object sender, EventArgs e)
+        {
+            // Gọi form BookDetail trắng trơn showw ra chờ user input Book info 
+            BookDetailForm f = new BookDetailForm();
+            f.ShowDialog();
+        }
+
+        private void dgvBookList_SelectionChanged_1(object sender, EventArgs e)
+        {
+            if (dgvBookList.SelectedRows.Count > 0)
+            {
+                Book selected = (Book)dgvBookList.SelectedRows[0].DataBoundItem;
+
+                BookDetailForm f = new BookDetailForm();
+                f.SelectedBook = selected;
+                f.ShowDialog();
+            }
         }
     }
 }
