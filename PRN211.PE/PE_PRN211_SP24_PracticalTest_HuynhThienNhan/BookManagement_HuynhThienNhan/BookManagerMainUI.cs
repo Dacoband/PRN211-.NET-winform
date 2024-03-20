@@ -71,20 +71,50 @@ namespace BookManagement_HuynhThienNhan
             if (dgvBookList.SelectedRows.Count > 0)
             {
                 // nếu chọn ít nhất 1 dòng thì cứ lấy dòng đầu tiên được chọn , đẩy sang màn hình detail 
-                _selected = (Book)dgvBookList.SelectedRows[0].DataBoundItem;// lấy 1 dòng chính là 1 kiểu object tổng quát , nhưng bản thân là book lúc đầu .DataSource = List<Book> của hàm GetAllBooks()
-
-                //đẩy sang màn Form Detail 
-                //Khai biến, new , gán prop ,show dialog 
-                //thằng form detail : mở lên check selected khác null hok ?? khác null mode Edit ,Show dagta được gửi sang 
-                BookDetailForm f = new BookDetailForm();
-                //đưa sách sang 
-                f.SelectedBook = _selected;
-                f.ShowDialog();
+                _selected = (Book)dgvBookList.SelectedRows[0].DataBoundItem;// lấy 1 dòng chính là 1 kiểu object tổng quát , nhưng bản thân là book lúc đầu .DataSource = List<Book> của hàm GetAllBooks() 
             }
+            //TODO: Nếu User chọn Cell thay vì chọn nguyên dòng , Reset biến _selected về null 
+
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
+            //đẩy sang màn Form Detail 
+            //Khai biến, new , gán prop ,show dialog 
+            //thằng form detail : mở lên check selected khác null hok ?? khác null mode Edit ,Show dagta được gửi sang 
+            if (_selected != null) // Người dùng phải chọn 1 grid 
+            {
+                BookDetailForm f = new BookDetailForm();
+                //đưa sách sang 
+                f.SelectedBook = _selected;
+                f.ShowDialog();
+
+            }
+            else
+                MessageBox.Show("Please select a certain book to edit !", "Select One book ", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            // Ta sẽ lấy ra 2 chuỗi đang nằm trong txtBookName và txtDescription 
+            // Where trên cái danh sách book đang có 
+            BookService service = new BookService();
+            var books = service.GetAllBooks();
+            dgvBookList.DataSource = null;
+
+            //dgvBookList.DataSource = books.Where(x => false).ToList(); //không trả về cuốn nào hết
+            //dgvBookList.DataSource = books.Where(x => true).ToList(); //đưa ra tất cả các cuốn sách 
+
+           // dgvBookList.DataSource = books.Where(x => x.BookName.ToLower().Contains(txtBookName.Text.ToLower())).ToList();// đặt điều kiện trả về chữ thường , và đây là cách viết lamda
+
+            dgvBookList.DataSource = books.Where(  //cách viết delegate
+                delegate (Book x)
+                {
+                     return x.BookName.ToLower().Contains(txtBookName.Text.ToLower()) ||
+                            x.Description.ToLower().Contains(txtDescription.Text.ToLower());
+                }
+            ).ToList();
 
         }
     }

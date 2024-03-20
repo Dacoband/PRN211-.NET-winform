@@ -32,7 +32,7 @@
             lblHeader = new Label();
             grbSearchCriteria = new GroupBox();
             btnSearch = new Button();
-            txtBookDescription = new TextBox();
+            txtDescription = new TextBox();
             txtBookName = new TextBox();
             lblBookName = new Label();
             lblDescriptionSearch = new Label();
@@ -61,7 +61,7 @@
             // grbSearchCriteria
             // 
             grbSearchCriteria.Controls.Add(btnSearch);
-            grbSearchCriteria.Controls.Add(txtBookDescription);
+            grbSearchCriteria.Controls.Add(txtDescription);
             grbSearchCriteria.Controls.Add(txtBookName);
             grbSearchCriteria.Controls.Add(lblBookName);
             grbSearchCriteria.Controls.Add(lblDescriptionSearch);
@@ -83,14 +83,14 @@
             btnSearch.TabIndex = 4;
             btnSearch.Text = "Search";
             btnSearch.UseVisualStyleBackColor = true;
-            btnSearch.Click += button1_Click;
+            btnSearch.Click += btnSearch_Click;
             // 
-            // txtBookDescription
+            // txtDescription
             // 
-            txtBookDescription.Location = new Point(646, 83);
-            txtBookDescription.Name = "txtBookDescription";
-            txtBookDescription.Size = new Size(211, 47);
-            txtBookDescription.TabIndex = 3;
+            txtDescription.Location = new Point(646, 83);
+            txtDescription.Name = "txtDescription";
+            txtDescription.Size = new Size(211, 47);
+            txtDescription.TabIndex = 3;
             // 
             // txtBookName
             // 
@@ -237,7 +237,7 @@
         private Label lblDescriptionSearch;
         private Label lblBookList;
         private Button btnSearch;
-        private TextBox txtBookDescription;
+        private TextBox txtDescription;
         private TextBox txtBookName;
         private Button btnCreate;
         private Button btnUpdate;
