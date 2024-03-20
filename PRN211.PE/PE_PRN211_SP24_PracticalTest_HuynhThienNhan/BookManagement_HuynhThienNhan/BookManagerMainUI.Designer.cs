@@ -153,6 +153,7 @@
             btnUpdate.TabIndex = 9;
             btnUpdate.Text = "Update a Book";
             btnUpdate.UseVisualStyleBackColor = true;
+            btnUpdate.Click += btnUpdate_Click;
             // 
             // btnDelete
             // 

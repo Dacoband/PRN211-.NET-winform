@@ -20,6 +20,8 @@ namespace BookManagement_HuynhThienNhan
         //Nếu của sổ này được gọi từ nút Create Book bên kia thì SelectedBook = null - CHẾ ĐỘ APP 
 
         //Nếu ở chế độ EDIT - nghĩa là bên màn hình kìa phải set biến selected_book = Book đang chọn rồi mới show màn hình 
+
+        // Mặc định form này là trốnng không có sách nào cả còn muốn có bôk thì .SelectedBook = cuốn muốn thêm vào 
         public BookDetailForm()
         {
             InitializeComponent();
@@ -49,18 +51,23 @@ namespace BookManagement_HuynhThienNhan
             //mặc định Jump nhảy tới value nào trong dãy xổ ra 
             //cbxBookCategory.SelectedValue = 5; // mặc định cách tạo là thuộc về loaji kĩ năng mềm 
             
-            //Check hàng nếu selected book đc gán Value thì là mode edit òi
+            //Check hàng nếu selected book đc gán Value thì là mode edit òi  | check hàng có phải là edit không ? | Coi xem có khác null không 
             //Show data vào các ô nhập để bà con edit 
+            // nếu có sách thì fill vào các ô 
             if(SelectedBook != null)
             {
                 txtBookID.Text = SelectedBook.BookId.ToString();
-                txtBookName.Text = SelectedBook.BookName;
+                txtBookName.Text = SelectedBook.BookName;// .Text là thay đổi value điền vào 
                 txtBookDescription.Text = SelectedBook.Description;
+                txtAuthor.Text = SelectedBook.Author;
+                txtPrice.Text = SelectedBook.Price.ToString();
+                txtQuantity.Text = SelectedBook.Quantity.ToString();
+
                 // làm các nút còn lại 
 
 
                 // Vi diệu nhất , nhảy đén các loại sách mà sach đang thuộc về 
-                cbxBookCategory.SelectedValue = SelectedBook.BookCategoryId;
+                cbxBookCategory.SelectedValue = SelectedBook.BookCategoryId; // có thể là 1  2 3 4 5 có Category nào thì nhảy đến số đó 
             }
 
         }

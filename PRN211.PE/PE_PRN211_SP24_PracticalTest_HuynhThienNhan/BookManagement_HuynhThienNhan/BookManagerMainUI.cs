@@ -3,8 +3,15 @@ using Services;
 
 namespace BookManagement_HuynhThienNhan
 {
+
     public partial class BookManagerMainUI : Form
     {
+        //Backing Field _ 
+        private Book _selected = null;// Chờ ai đó nhắn chọn 1 dòng trong grid/ table 
+        //thì nó được gán = cuốn sách đang chọn 
+        //đẩy cuốn sách được chọn sang màn hình 
+
+        // vf detail form cũng là class nên nó prop như thường, khác là class có thể render 
         public BookManagerMainUI()
         {
             InitializeComponent();
@@ -52,21 +59,33 @@ namespace BookManagement_HuynhThienNhan
 
         private void btnCreate_Click(object sender, EventArgs e)
         {
-            // Gọi form BookDetail trắng trơn showw ra chờ user input Book info 
+            // Gọi form BookDetail trắng trơn showw ra chờ user input Book info
+            //gọi màn hình Detail lên. Màn hình này bản chất là một class BookDetailForm, khác truyền thống nó có phần render bề mặt 
             BookDetailForm f = new BookDetailForm();
             f.ShowDialog();
         }
 
         private void dgvBookList_SelectionChanged_1(object sender, EventArgs e)
         {
+            //người dùng có thể chọn 1 dòng hay nhìu dòng - chìm chuột , cho nên ta sẽ lấy dòng đầu tiên được chọn nếu ngườin ta chọnnhiuf dòng 
             if (dgvBookList.SelectedRows.Count > 0)
             {
-                Book selected = (Book)dgvBookList.SelectedRows[0].DataBoundItem;
+                // nếu chọn ít nhất 1 dòng thì cứ lấy dòng đầu tiên được chọn , đẩy sang màn hình detail 
+                _selected = (Book)dgvBookList.SelectedRows[0].DataBoundItem;// lấy 1 dòng chính là 1 kiểu object tổng quát , nhưng bản thân là book lúc đầu .DataSource = List<Book> của hàm GetAllBooks()
 
+                //đẩy sang màn Form Detail 
+                //Khai biến, new , gán prop ,show dialog 
+                //thằng form detail : mở lên check selected khác null hok ?? khác null mode Edit ,Show dagta được gửi sang 
                 BookDetailForm f = new BookDetailForm();
-                f.SelectedBook = selected;
+                //đưa sách sang 
+                f.SelectedBook = _selected;
                 f.ShowDialog();
             }
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
