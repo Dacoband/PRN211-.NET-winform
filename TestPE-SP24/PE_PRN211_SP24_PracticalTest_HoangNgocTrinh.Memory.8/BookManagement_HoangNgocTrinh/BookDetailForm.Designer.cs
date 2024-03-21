@@ -287,7 +287,7 @@
             Text = "Add | Update a Book";
             Load += BookDetailForm_Load;
             grbBookInfo.ResumeLayout(false);
-            grbBookInfo.PerformLayout(); 
+            grbBookInfo.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }

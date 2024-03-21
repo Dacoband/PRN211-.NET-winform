@@ -97,5 +97,14 @@ namespace BookManagement_HoangNgocTrinh
             Application.Exit();
         }
 
+        private void dgvBookList_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void txtBookName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

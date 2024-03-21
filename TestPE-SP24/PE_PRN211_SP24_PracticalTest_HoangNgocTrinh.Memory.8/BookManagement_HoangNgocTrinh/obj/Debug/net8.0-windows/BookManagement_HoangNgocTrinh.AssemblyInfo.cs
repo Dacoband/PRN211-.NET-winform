@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookManagement_HoangNgocTrinh")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca0d0701fc9e68b873b23e5183bd3fabdfee7c79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9892cc73b618a28d2465b54d8cd1e9bccf7ab4a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookManagement_HoangNgocTrinh")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookManagement_HoangNgocTrinh")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

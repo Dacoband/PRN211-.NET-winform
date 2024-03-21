@@ -54,7 +54,7 @@
             lblHeader.BackColor = Color.Red;
             lblHeader.Font = new Font("Segoe UI", 39F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblHeader.ForeColor = Color.Yellow;
-            lblHeader.Location = new Point(12, 9);
+            lblHeader.Location = new Point(30, 18);
             lblHeader.Name = "lblHeader";
             lblHeader.Size = new Size(485, 87);
             lblHeader.TabIndex = 0;
@@ -112,6 +112,7 @@
             txtBookName.Name = "txtBookName";
             txtBookName.Size = new Size(222, 38);
             txtBookName.TabIndex = 0;
+            txtBookName.TextChanged += txtBookName_TextChanged;
             // 
             // lblDescription
             // 
@@ -158,6 +159,7 @@
             dgvBookList.RowHeadersWidth = 51;
             dgvBookList.Size = new Size(957, 296);
             dgvBookList.TabIndex = 1;
+            dgvBookList.CellContentClick += dgvBookList_CellContentClick;
             dgvBookList.SelectionChanged += dgvBookList_SelectionChanged;
             // 
             // lblBookList
