@@ -74,7 +74,7 @@
 - Use PowerShell to run the command within Repositories project.
 - Modify Connection String to match SQL Server.
 - Command:
-```dotnet ef dbcontext scaffold "Server=(local);Database='Your Database';UID='Your UserName';PWD='Your Password';TrustServerCertificate=True" "Microsoft.EntityFrameworkCore.SqlServer" --output-dir "Entities" --context-dir ".\" ```
+  ```dotnet ef dbcontext scaffold "Server=(local);Database='Your Database';UID='Your UserName';PWD='Your Password';TrustServerCertificate=True" "Microsoft.EntityFrameworkCore.SqlServer" --output-dir "Entities" --context-dir ".\" ```
 
 ## VIII. No Hard-Coded Connection String
 
