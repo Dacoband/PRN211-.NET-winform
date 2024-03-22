@@ -1,0 +1,17 @@
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\bin\Debug\net7.0\Repositories.deps.json
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\bin\Debug\net7.0\Repositories.dll
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\bin\Debug\net7.0\Repositories.pdb
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\bin\Debug\net7.0\BusinessObjects.dll
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\bin\Debug\net7.0\DataAccessObjects.dll
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\bin\Debug\net7.0\BusinessObjects.pdb
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\bin\Debug\net7.0\DataAccessObjects.pdb
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\obj\Debug\net7.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\obj\Debug\net7.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfo.cs
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\obj\Debug\net7.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\obj\Debug\net7.0\Repositories.csproj.CopyComplete
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\obj\Debug\net7.0\Repositories.dll
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\obj\Debug\net7.0\refint\Repositories.dll
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\obj\Debug\net7.0\Repositories.pdb
+C:\Users\Minh\Documents\PRN211\PE_PRN211_FA23_TrialTest_NguyenVanMinh\Repositories\obj\Debug\net7.0\ref\Repositories.dll

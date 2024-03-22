@@ -1,0 +1,15 @@
+E:\Workspace\DemoLogin\DataAccessObject\bin\Debug\net6.0\DataAccessObject.deps.json
+E:\Workspace\DemoLogin\DataAccessObject\bin\Debug\net6.0\DataAccessObject.dll
+E:\Workspace\DemoLogin\DataAccessObject\bin\Debug\net6.0\DataAccessObject.pdb
+E:\Workspace\DemoLogin\DataAccessObject\bin\Debug\net6.0\BussinessObject.dll
+E:\Workspace\DemoLogin\DataAccessObject\bin\Debug\net6.0\BussinessObject.pdb
+E:\Workspace\DemoLogin\DataAccessObject\obj\Debug\net6.0\DataAccessObject.csproj.AssemblyReference.cache
+E:\Workspace\DemoLogin\DataAccessObject\obj\Debug\net6.0\DataAccessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\DemoLogin\DataAccessObject\obj\Debug\net6.0\DataAccessObject.AssemblyInfoInputs.cache
+E:\Workspace\DemoLogin\DataAccessObject\obj\Debug\net6.0\DataAccessObject.AssemblyInfo.cs
+E:\Workspace\DemoLogin\DataAccessObject\obj\Debug\net6.0\DataAccessObject.csproj.CoreCompileInputs.cache
+E:\Workspace\DemoLogin\DataAccessObject\obj\Debug\net6.0\DataAccessObject.csproj.CopyComplete
+E:\Workspace\DemoLogin\DataAccessObject\obj\Debug\net6.0\DataAccessObject.dll
+E:\Workspace\DemoLogin\DataAccessObject\obj\Debug\net6.0\refint\DataAccessObject.dll
+E:\Workspace\DemoLogin\DataAccessObject\obj\Debug\net6.0\DataAccessObject.pdb
+E:\Workspace\DemoLogin\DataAccessObject\obj\Debug\net6.0\ref\DataAccessObject.dll

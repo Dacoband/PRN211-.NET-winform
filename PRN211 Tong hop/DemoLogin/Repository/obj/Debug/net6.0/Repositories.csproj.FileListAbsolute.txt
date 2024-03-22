@@ -1,0 +1,17 @@
+E:\Workspace\DemoLogin\Repository\bin\Debug\net6.0\Repositories.deps.json
+E:\Workspace\DemoLogin\Repository\bin\Debug\net6.0\Repositories.dll
+E:\Workspace\DemoLogin\Repository\bin\Debug\net6.0\Repositories.pdb
+E:\Workspace\DemoLogin\Repository\bin\Debug\net6.0\BussinessObject.dll
+E:\Workspace\DemoLogin\Repository\bin\Debug\net6.0\DataAccessObject.dll
+E:\Workspace\DemoLogin\Repository\bin\Debug\net6.0\BussinessObject.pdb
+E:\Workspace\DemoLogin\Repository\bin\Debug\net6.0\DataAccessObject.pdb
+E:\Workspace\DemoLogin\Repository\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\Workspace\DemoLogin\Repository\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\DemoLogin\Repository\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\Workspace\DemoLogin\Repository\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\Workspace\DemoLogin\Repository\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\Workspace\DemoLogin\Repository\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+E:\Workspace\DemoLogin\Repository\obj\Debug\net6.0\Repositories.dll
+E:\Workspace\DemoLogin\Repository\obj\Debug\net6.0\refint\Repositories.dll
+E:\Workspace\DemoLogin\Repository\obj\Debug\net6.0\Repositories.pdb
+E:\Workspace\DemoLogin\Repository\obj\Debug\net6.0\ref\Repositories.dll

@@ -1,0 +1,14 @@
+E:\Workspace\DemoLogin\BussinessObject\bin\Debug\net6.0\BussinessObject.deps.json
+E:\Workspace\DemoLogin\BussinessObject\bin\Debug\net6.0\BussinessObject.runtimeconfig.json
+E:\Workspace\DemoLogin\BussinessObject\bin\Debug\net6.0\BussinessObject.dll
+E:\Workspace\DemoLogin\BussinessObject\bin\Debug\net6.0\BussinessObject.pdb
+E:\Workspace\DemoLogin\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.AssemblyReference.cache
+E:\Workspace\DemoLogin\BussinessObject\obj\Debug\net6.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\DemoLogin\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfoInputs.cache
+E:\Workspace\DemoLogin\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfo.cs
+E:\Workspace\DemoLogin\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.CoreCompileInputs.cache
+E:\Workspace\DemoLogin\BussinessObject\obj\Debug\net6.0\BussinessObject.dll
+E:\Workspace\DemoLogin\BussinessObject\obj\Debug\net6.0\refint\BussinessObject.dll
+E:\Workspace\DemoLogin\BussinessObject\obj\Debug\net6.0\BussinessObject.pdb
+E:\Workspace\DemoLogin\BussinessObject\obj\Debug\net6.0\BussinessObject.genruntimeconfig.cache
+E:\Workspace\DemoLogin\BussinessObject\obj\Debug\net6.0\ref\BussinessObject.dll

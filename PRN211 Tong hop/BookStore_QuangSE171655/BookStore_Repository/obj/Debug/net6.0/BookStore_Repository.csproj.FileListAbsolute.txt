@@ -1,0 +1,14 @@
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\bin\Debug\net6.0\BookStore_Repository.deps.json
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\bin\Debug\net6.0\BookStore_Repository.dll
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\bin\Debug\net6.0\BookStore_Repository.pdb
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\obj\Debug\net6.0\BookStore_Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\obj\Debug\net6.0\BookStore_Repository.AssemblyInfoInputs.cache
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\obj\Debug\net6.0\BookStore_Repository.AssemblyInfo.cs
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\obj\Debug\net6.0\BookStore_Repository.csproj.CoreCompileInputs.cache
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\obj\Debug\net6.0\BookStore_Repository.dll
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\obj\Debug\net6.0\refint\BookStore_Repository.dll
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\obj\Debug\net6.0\BookStore_Repository.pdb
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\obj\Debug\net6.0\ref\BookStore_Repository.dll
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\bin\Debug\net6.0\BookStore_Repository.runtimeconfig.json
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\obj\Debug\net6.0\BookStore_Repository.csproj.AssemblyReference.cache
+E:\Workspace\BookStore_QuangSE171655\BookStore_Repository\obj\Debug\net6.0\BookStore_Repository.genruntimeconfig.cache
