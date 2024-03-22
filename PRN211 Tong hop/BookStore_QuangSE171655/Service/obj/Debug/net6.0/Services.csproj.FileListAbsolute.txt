@@ -28,3 +28,19 @@ C:\Users\PC\Desktop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\Services.dl
 C:\Users\PC\Desktop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\refint\Services.dll
 C:\Users\PC\Desktop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\Services.pdb
 C:\Users\PC\Desktop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\ref\Services.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\bin\Debug\net6.0\Services.deps.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\bin\Debug\net6.0\Services.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\bin\Debug\net6.0\Services.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\bin\Debug\net6.0\Repositories.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\bin\Debug\net6.0\Repositories.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\Services.sourcelink.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\Services.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\refint\Services.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\Services.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PRN211 Tong hop\BookStore_QuangSE171655\Service\obj\Debug\net6.0\ref\Services.dll

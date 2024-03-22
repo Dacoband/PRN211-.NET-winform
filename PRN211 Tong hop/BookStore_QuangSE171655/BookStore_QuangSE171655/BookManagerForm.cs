@@ -23,7 +23,7 @@ namespace BookStore_QuangSE171655
 
         private void label3_Click(object sender, EventArgs e)
         {
-
+            
         }
 
 
@@ -65,11 +65,21 @@ namespace BookStore_QuangSE171655
                 txtName.Text = selectedBook.BookName;
                 txtDescription.Text = selectedBook.Description;
                 dtpReleaseDay.Value = selectedBook.ReleaseDate;
-                txtQuantity.Text=selectedBook.Quantity.ToString();
+                txtQuantity.Text = selectedBook.Quantity.ToString();
                 txtPrice.Text = selectedBook.Price.ToString();
                 cbCategory.SelectedValue = selectedBook.BookCategoryId;
                 txtAuthor.Text = selectedBook.Author;
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

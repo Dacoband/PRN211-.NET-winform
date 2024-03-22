@@ -75,3 +75,4 @@ D:\FPT_Learning\PRN211\PRN211_DotNet\TestPE-SP24\PE_PRN211_SP24_PracticalTest_Hu
 D:\FPT_Learning\PRN211\PRN211_DotNet\TestPE-SP24\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\BookManagement_HuynhThienNhan\obj\Debug\net8.0-windows\ref\BookManagement_HuynhThienNhan.dll
 D:\FPT_Learning\PRN211\PRN211_DotNet\TestPE-SP24\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\BookManagement_HuynhThienNhan\bin\Debug\net8.0-windows\appsettings.json
 D:\FPT_Learning\PRN211\PRN211_DotNet\TestPE-SP24\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\BookManagement_HuynhThienNhan\obj\Debug\net8.0-windows\BookManagement_HuynhThienNhan.LoginForm.resources
+D:\FPT_Learning\PRN211\PRN211_DotNet\TestPE-SP24\PE_PRN211_SP24_PracticalTest_HuynhThienNhan\BookManagement_HuynhThienNhan\obj\Debug\net8.0-windows\BookManagement_HuynhThienNhan.BookDetailForm.resources

@@ -33,7 +33,7 @@ public partial class BookManagement2023DbContext : DbContext
         IConfiguration configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json", true, true).Build();
-        return configuration["ConnectionStrings:DBDefault"];
+        return configuration["ConnectionStrings:DefaultConnectionStringDB"];
     }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

@@ -1,6 +1,15 @@
 ﻿using Repositories.Entities;
 using Services;
-
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using BookManagement_HuynhThienNhan;
 namespace BookManagement_HuynhThienNhan
 {
     public partial class BookManagerMainForm : Form
@@ -9,7 +18,9 @@ namespace BookManagement_HuynhThienNhan
         {
             InitializeComponent();
         }
-
+        private Book _selected = null;
+        private BookService _bookService = new BookService();
+        
         private void BookManagerMainForm_Load(object sender, EventArgs e)
         {
             BookService service = new BookService();
@@ -57,6 +68,45 @@ namespace BookManagement_HuynhThienNhan
             {
                 Application.Exit();
             }
+        }
+
+        private void btnAddBook_Click(object sender, EventArgs e)
+        {
+            BookDetailForm f = new BookDetailForm();
+            f.ShowDialog();
+        }
+
+        private void dgvBookList_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void dgvBookList_SelectionChanged(object sender, EventArgs e)
+        {
+            if (dgvBookList.SelectedRows.Count > 0)
+            {
+                _selected = (Book)dgvBookList.SelectedRows[0].DataBoundItem;
+            }
+            
+        }
+
+        private void btnUpdateBook_Click(object sender, EventArgs e)
+        {
+            if (_selected != null) //người dùng phải chọn 1 dòng trong grid
+            {
+                BookDetailForm f = new BookDetailForm();
+
+                //đưa sách sang
+                f.SelectedBook = _selected;
+                f.ShowDialog();
+            }
+            else
+                MessageBox.Show("Please select a certain book to edit!", "Select one book", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+        }
+
+        private void btnDeleteBook_Click(object sender, EventArgs e)
+        {
+          
         }
     }
 }

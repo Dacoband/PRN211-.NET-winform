@@ -14,34 +14,6 @@ public partial class BookManagementDbContext : DbContext
     {
     }
 
-    public bool CheckUserAccount(string Email, string Password)
-    {
-        using (SqlConnection connection = new SqlConnection(GetConnectionString()))
-        {
-            connection.Open();
-            string query = "SELECT COUNT(*) from UserAccount\r\nwhere Email = @Email and Password=@Password";
-            SqlCommand cmd = new SqlCommand(query, connection);
-            cmd.Parameters.AddWithValue("@Email", Email);
-            cmd.Parameters.AddWithValue("@Password", Password);
-            int count = (int)cmd.ExecuteScalar(); // Số lượng bản ghi tìm thấy
-
-            // Trả về kết quả của việc kiểm tra thông tin đăng nhập
-            return count > 0;
-        } 
-    }
-    public int GetUserRole(string Email)
-    {
-        using (SqlConnection connection = new SqlConnection(GetConnectionString()))
-        {
-            connection.Open();
-            string query = "select Role  from UserAccount where Email = @Email ";
-            SqlCommand cmd = new SqlCommand(query, connection);
-            cmd.Parameters.AddWithValue("@Email", Email);
-            object result = cmd.ExecuteScalar(); 
-            return Convert.ToInt32(result);
-        }
-    }
-
     private string? GetConnectionString()
     {
         IConfiguration configuration = new ConfigurationBuilder()

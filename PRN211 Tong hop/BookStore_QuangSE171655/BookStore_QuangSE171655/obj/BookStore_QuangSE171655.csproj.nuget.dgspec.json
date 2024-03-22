@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\BookStore_QuangSE171655\\BookStore_QuangSE171655.csproj": {}
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\BookStore_QuangSE171655\\BookStore_QuangSE171655.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\BookStore_QuangSE171655\\BookStore_QuangSE171655.csproj": {
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\BookStore_QuangSE171655\\BookStore_QuangSE171655.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\BookStore_QuangSE171655\\BookStore_QuangSE171655.csproj",
+        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\BookStore_QuangSE171655\\BookStore_QuangSE171655.csproj",
         "projectName": "BookStore_QuangSE171655",
-        "projectPath": "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\BookStore_QuangSE171655\\BookStore_QuangSE171655.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\BookStore_QuangSE171655\\obj\\",
+        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\BookStore_QuangSE171655\\BookStore_QuangSE171655.csproj",
+        "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\BookStore_QuangSE171655\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\Service\\Services.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\Service\\Services.csproj"
+              "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\Service\\Services.csproj": {
+                "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\Service\\Services.csproj"
               }
             }
           }
@@ -54,6 +54,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -62,21 +80,21 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\BookStore_Repository\\Repositories.csproj": {
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\BookStore_Repository\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\BookStore_Repository\\Repositories.csproj",
+        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\BookStore_Repository\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\BookStore_Repository\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\BookStore_Repository\\obj\\",
+        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\BookStore_Repository\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\BookStore_Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -142,26 +160,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\Service\\Services.csproj": {
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\Service\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\Service\\Services.csproj",
+        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\Service\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\Service\\Services.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\Service\\obj\\",
+        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\Service\\Services.csproj",
+        "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -175,8 +207,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\BookStore_Repository\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\BookStore_QuangSE171655\\BookStore_Repository\\Repositories.csproj"
+              "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\BookStore_Repository\\Repositories.csproj": {
+                "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\BookStore_QuangSE171655\\BookStore_Repository\\Repositories.csproj"
               }
             }
           }
@@ -201,12 +233,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

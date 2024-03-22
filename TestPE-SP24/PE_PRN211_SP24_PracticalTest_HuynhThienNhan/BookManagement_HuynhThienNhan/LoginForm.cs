@@ -1,4 +1,6 @@
 ﻿using Repositories;
+using Repositories.Entities;
+using Services;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -25,29 +27,33 @@ namespace BookManagement_HuynhThienNhan
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            string email = txtEmail.Text;
-            string password = txtPassword.Text; 
+           string email = txtEmail.Text;//TODO: kiem tra rong
+            string password = txtPassword.Text;//TODO: kiem tra rong
+            BookManagementMemberService bms = new BookManagementMemberService();
 
-            BookManagementDbContext db = new BookManagementDbContext();
-            bool isValidUser = db.CheckUserAccount(email, password);
-            if (isValidUser)
+            UserAccount account = bms.CheckLogin(email, password);
+            if (account == null)
             {
-                int userRole = db.GetUserRole(email);
-                if (userRole == 1)
-                {
-                    BookManagerMainForm form = new BookManagerMainForm();
-                    form.Show();
-                    this.Hide();
-                }
-                else
-                {
-                    MessageBox.Show("You have no permission to access this function.", "Access Denied", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
+                MessageBox.Show("Login failed! Please check your credentials"
+                    , "Wrong credentials"
+                    , MessageBoxButtons.OK
+                    , MessageBoxIcon.Error);
+                return;
             }
-            else
+            //not null roi cho vao form quan li sach
+            //check xem neu de cho role sao thi cho role do
+            if (account.Role != 1)
             {
-                MessageBox.Show("Invalid email or password.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("You are not allowed to this function!"
+                     , "Access denied"
+                     , MessageBoxButtons.OK
+                     , MessageBoxIcon.Error);
+                return;
             }
+            //ngon,role admin roi thi mo form login
+            BookManagerMainForm bookMgt = new BookManagerMainForm();
+            bookMgt.Show();
+            this.Hide();
         }
     }
 }

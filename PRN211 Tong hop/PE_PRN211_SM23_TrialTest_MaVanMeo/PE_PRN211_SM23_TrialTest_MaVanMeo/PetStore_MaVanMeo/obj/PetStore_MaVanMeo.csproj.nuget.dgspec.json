@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PRN211sout\\PRN211\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo\\PetStore_MaVanMeo.csproj": {}
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo\\PetStore_MaVanMeo.csproj": {}
   },
   "projects": {
-    "E:\\PRN211sout\\PRN211\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo\\PetStore_MaVanMeo.csproj": {
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo\\PetStore_MaVanMeo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PRN211sout\\PRN211\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo\\PetStore_MaVanMeo.csproj",
+        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo\\PetStore_MaVanMeo.csproj",
         "projectName": "PetStore_MaVanMeo",
-        "projectPath": "E:\\PRN211sout\\PRN211\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo\\PetStore_MaVanMeo.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "E:\\PRN211sout\\PRN211\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo\\obj\\",
+        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo\\PetStore_MaVanMeo.csproj",
+        "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\PRN211sout\\PRN211\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo_Repository\\PetStore_MaVanMeo_Repository.csproj": {
-                "projectPath": "E:\\PRN211sout\\PRN211\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo_Repository\\PetStore_MaVanMeo_Repository.csproj"
+              "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo_Repository\\PetStore_MaVanMeo_Repository.csproj": {
+                "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo_Repository\\PetStore_MaVanMeo_Repository.csproj"
               }
             }
           }
@@ -64,6 +64,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -72,21 +90,21 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\PRN211sout\\PRN211\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo_Repository\\PetStore_MaVanMeo_Repository.csproj": {
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo_Repository\\PetStore_MaVanMeo_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PRN211sout\\PRN211\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo_Repository\\PetStore_MaVanMeo_Repository.csproj",
+        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo_Repository\\PetStore_MaVanMeo_Repository.csproj",
         "projectName": "PetStore_MaVanMeo_Repository",
-        "projectPath": "E:\\PRN211sout\\PRN211\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo_Repository\\PetStore_MaVanMeo_Repository.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "E:\\PRN211sout\\PRN211\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo_Repository\\obj\\",
+        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo_Repository\\PetStore_MaVanMeo_Repository.csproj",
+        "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211 Tong hop\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PE_PRN211_SM23_TrialTest_MaVanMeo\\PetStore_MaVanMeo_Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -144,12 +162,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
