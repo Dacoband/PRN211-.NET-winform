@@ -21,6 +21,18 @@ namespace Services
         {
             return _repo.GetBooks();
         }
+        public void AddABook(Book book)
+        {
+            _repo.CreateBook(book);
+        }
+        public void DeleteABook(Book book)
+        {
+            _repo.DeleteBook(book);
+        }
+        public void UpdateABook(Book book)
+        {
+            _repo.UpdateBook(book);
+        }
 
     }
 }

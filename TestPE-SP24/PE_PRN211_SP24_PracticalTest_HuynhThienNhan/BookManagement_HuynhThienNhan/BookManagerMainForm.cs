@@ -46,8 +46,7 @@ namespace BookManagement_HuynhThienNhan
                                     GenreDescription = category.Description
                                 }).ToList();
 
-            // Gán danh sách đã kết hợp vào DataSource của DataGridView
-            dgvBookList.DataSource = null; // Xóa dữ liệu cũ
+            dgvBookList.DataSource = null;
             dgvBookList.DataSource = combinedData;
 
         }

@@ -19,5 +19,29 @@ namespace Repositories
             _context = new();
             return _context.Books.ToList();
         }
+
+        //Book Repo cung cấp các hàm CRUD trừcj tiếp với Database qua việc gouij DbContext
+        //Mỗi lần xài là phải new 
+        //toàn bộ là OOP, Đău obj gọi hàm tươngf ựng là tự biết insert hay UPDATE or DELETE 
+        public void CreateBook(Book book)
+        {
+            _context =new();
+            _context.Books.Add(book);
+            _context.SaveChanges();
+        } //Check trùng key : ChatGPT -> How to handle duplicate of primary key in C# using EF core when inserting a new book in Book Management app 
+        public void UpdateBook(Book book)
+        {
+            _context =new();
+            _context.Books.Update(book);
+            _context.SaveChanges();
+        }
+        public void DeleteBook(Book book)
+        {
+            _context =new();
+            _context.Books.Remove(book);
+            _context.SaveChanges();
+        }
+
+
     }
 }

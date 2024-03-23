@@ -87,5 +87,35 @@ namespace BookManagement_HoangNgocTrinh
             Close();
         }
 
+        private void cboBookCategoryId_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            //nút save ứng với 2 tình huống, new mới sách edit sách
+            //New trong ram, new cuốn cũ hoặc new cuốn mới, rồi đem gửi xuống service 
+            Book b = new Book()
+            {
+                BookId = int.Parse(txtBookId.Text),
+                BookName = txtBookName.Text,
+                Description = txtDescription.Text,
+                Author = txtAuthor.Text,
+                Price = double.Parse(txtPrice.Text),
+                PublicationDate = dtpPublicationDate.Value,
+                Quantity = int.Parse(txtQuantity.Text),
+                BookCategoryId = int.Parse(cboBookCategoryId.SelectedValue.ToString()) //Do Combo box nên phải to string 
+            };
+
+            BookService service = new();
+            //Kiểm tra xem màn hình đang đâu mode nào , New hay Mode Eidt
+            if (SelectedBook != null)
+                service.UpdateABook(b);
+            else service.AddABook(b);
+
+            //đóng form lại và f5 bên grid
+            this.Close();
+        }
     }
 }

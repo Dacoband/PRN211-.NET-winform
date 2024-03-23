@@ -62,6 +62,7 @@
             btnSave.TabIndex = 1;
             btnSave.Text = "Save";
             btnSave.UseVisualStyleBackColor = true;
+            btnSave.Click += btnSave_Click;
             // 
             // grbBookInfo
             // 
@@ -97,6 +98,7 @@
             cboBookCategoryId.Name = "cboBookCategoryId";
             cboBookCategoryId.Size = new Size(329, 39);
             cboBookCategoryId.TabIndex = 7;
+            cboBookCategoryId.SelectedIndexChanged += cboBookCategoryId_SelectedIndexChanged;
             // 
             // txtAuthor
             // 

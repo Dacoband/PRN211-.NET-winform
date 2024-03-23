@@ -10,20 +10,24 @@ namespace BookManagement_HoangNgocTrinh
         private Book _selected = null; //chờ ai đó nhấn chọn 1 dòng trong grid/table
                                        //thì nó đc gán = cuốn sách đang chọn 
                                        //đẩy cuốn sách đc chọn sang màn hình update
-
+        private BookService _bookService = new BookService();
         public BookManagerMainForm()
         {
             InitializeComponent();
         }
 
+        //Làm hàm tiện ích, helper để đi fill data vào trong grid, được dùng sau mỗi chức năng CRUD book
+        private void FillDataGridView()
+        {
+            dgvBookList.DataSource = null; //xoá trắng grid
+            dgvBookList.DataSource = _bookService.GetAllBooks();
+        }
+
         public void BookManagerMainForm_Load(object sender, EventArgs e)
         {
-            //gọi Services để cung cấp data vào grid/table
-            BookService service = new BookService();
 
-            dgvBookList.DataSource = null; //xoá trắng grid
-            dgvBookList.DataSource = service.GetAllBooks();
-            //                               hàm I trả về all books
+            FillDataGridView();// để fill lại grid 
+
         }
 
         private void btnCreate_Click(object sender, EventArgs e)
@@ -35,6 +39,8 @@ namespace BookManagement_HoangNgocTrinh
             BookDetailForm f = new BookDetailForm();
             f.ShowDialog(); //render đi em 
             //f.Show(); //nguy hiểm nhen, vì cứ new là có object, cửa sổ mới!!!
+            //F5 laji grid
+            FillDataGridView();
 
         }
 
@@ -66,7 +72,8 @@ namespace BookManagement_HoangNgocTrinh
             }
             else
                 MessageBox.Show("Please select a certain book to edit!", "Select one book", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-
+            //F5 lai grid
+            FillDataGridView();
 
         }
 
@@ -105,6 +112,25 @@ namespace BookManagement_HoangNgocTrinh
         private void txtBookName_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            if (_selected != null) //người dùng phải chọn 1 dòng trong grid
+            {
+                //Trước khi xóa thì mình phải hỏi có muốn xoá không 
+                DialogResult answer = MessageBox.Show("Do you want to delete book?", "Delete Confirmation?", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (answer == DialogResult.No)
+                {
+                    return;
+                }
+                // User chọn 1 cuốn, thay vì gửi edit thì mình xóa 
+                _bookService.DeleteABook(_selected);
+                FillDataGridView();
+                _selected = null;//Vì đề phòng edit 1 cuốn đã bị xóa 
+            }
+            else
+                MessageBox.Show("Please select a certain book to delete!", "Select one book", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
         }
     }
 }

@@ -1,0 +1,16 @@
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\bin\Debug\net6.0\Service.deps.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\bin\Debug\net6.0\Service.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\bin\Debug\net6.0\Service.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\bin\Debug\net6.0\Repository.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\bin\Debug\net6.0\Repository.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\obj\Debug\net6.0\Service.sourcelink.json
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\obj\Debug\net6.0\Service.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\obj\Debug\net6.0\refint\Service.dll
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\obj\Debug\net6.0\Service.pdb
+D:\FPT_Learning\PRN211\PRN211_DotNet\PE_Hola_SP24\PE.Hola.SP24\Service\obj\Debug\net6.0\ref\Service.dll
