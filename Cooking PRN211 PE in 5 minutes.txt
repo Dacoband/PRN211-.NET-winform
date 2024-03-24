@@ -72,7 +72,7 @@ VI. DECLARE/DOWNLOAD/IMPORT EF CORE LIBRARY (DEPENDENCY, PACKAGE) FROM INTERNET 
 VII. GERERATE THE ENTITY CLASSES FROM DATABASE (THE DB CREATED BEFORE BY USING THE .SQL SCRIPT ATTACHED WITH EXAM PAPER)
      Tạo ra các entity class từ database đã tạo trước đó (tạo database dùng file .sql trong đề thi)
 
-```dotnet ef dbcontext scaffold "Server=(local);uid=sa;pwd=12345;database= BookManagementDb;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer --output-dir "Entities" --context-dir ".\"```
+```dotnet ef dbcontext scaffold "Server=(local);uid=sa;pwd=12345;database= PE_Hola_SP24;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer --output-dir "Entities" --context-dir ".\"```
 
 * db scaffold
 * USING POWER SHELL TO RUN THE COMMAND (WITHIN REPOSITORIES PROJECT)
