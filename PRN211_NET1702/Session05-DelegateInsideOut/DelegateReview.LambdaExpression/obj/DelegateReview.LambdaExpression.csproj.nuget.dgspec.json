@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpression\\DelegateReview.LambdaExpression.csproj": {}
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LambdaExpression\\DelegateReview.LambdaExpression.csproj": {}
   },
   "projects": {
-    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpression\\DelegateReview.LambdaExpression.csproj": {
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LambdaExpression\\DelegateReview.LambdaExpression.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpression\\DelegateReview.LambdaExpression.csproj",
+        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LambdaExpression\\DelegateReview.LambdaExpression.csproj",
         "projectName": "DelegateReview.LambdaExpression",
-        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpression\\DelegateReview.LambdaExpression.csproj",
+        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LambdaExpression\\DelegateReview.LambdaExpression.csproj",
         "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpression\\obj\\",
+        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LambdaExpression\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",

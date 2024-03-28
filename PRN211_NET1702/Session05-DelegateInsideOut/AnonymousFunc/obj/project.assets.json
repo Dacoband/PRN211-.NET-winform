@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\AnonymousFunc\\AnonymousFunc.csproj",
+      "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\AnonymousFunc\\AnonymousFunc.csproj",
       "projectName": "AnonymousFunc",
-      "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\AnonymousFunc\\AnonymousFunc.csproj",
+      "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\AnonymousFunc\\AnonymousFunc.csproj",
       "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\AnonymousFunc\\obj\\",
+      "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\AnonymousFunc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",

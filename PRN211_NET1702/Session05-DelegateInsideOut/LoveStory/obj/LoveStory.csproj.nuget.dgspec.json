@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\LoveStory\\LoveStory.csproj": {}
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\LoveStory\\LoveStory.csproj": {}
   },
   "projects": {
-    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\LoveStory\\LoveStory.csproj": {
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\LoveStory\\LoveStory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\LoveStory\\LoveStory.csproj",
+        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\LoveStory\\LoveStory.csproj",
         "projectName": "LoveStory",
-        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\LoveStory\\LoveStory.csproj",
+        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\LoveStory\\LoveStory.csproj",
         "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\LoveStory\\obj\\",
+        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\LoveStory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateIntro\\DelegateIntro.csproj",
+      "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateIntro\\DelegateIntro.csproj",
       "projectName": "DelegateIntro",
-      "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateIntro\\DelegateIntro.csproj",
+      "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateIntro\\DelegateIntro.csproj",
       "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateIntro\\obj\\",
+      "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateIntro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",

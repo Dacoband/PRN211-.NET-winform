@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj",
+      "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj",
       "projectName": "DelegateReview.LambdaExpressV2",
-      "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj",
+      "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj",
       "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\obj\\",
+      "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LambdaExpressV2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",

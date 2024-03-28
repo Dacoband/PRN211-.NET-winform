@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X1cJJHK1Z9pCAS5oVIDFVMI6WPaD+naLm7D7PL4GAVC5zgN0xTXLzaAKoUOuVCZXz4JKKRENRfVINbdin3K4lA==",
+  "dgSpecHash": "EusBPV6wd2xdFSU+jv0udScq9Fxj2+WelwTCQ73Z2pElmqGCfa3R0FRJyNmd1NyFR2tO5Wp3H1EsiqsXyLjEtA==",
   "success": true,
-  "projectFilePath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj",
+  "projectFilePath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LambdaExpressV2\\DelegateReview.LambdaExpressV2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bolic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",

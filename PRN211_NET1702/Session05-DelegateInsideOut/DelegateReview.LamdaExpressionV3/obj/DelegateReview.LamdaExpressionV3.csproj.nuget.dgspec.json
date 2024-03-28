@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LamdaExpressionV3\\DelegateReview.LamdaExpressionV3.csproj": {}
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LamdaExpressionV3\\DelegateReview.LamdaExpressionV3.csproj": {}
   },
   "projects": {
-    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LamdaExpressionV3\\DelegateReview.LamdaExpressionV3.csproj": {
+    "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LamdaExpressionV3\\DelegateReview.LamdaExpressionV3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LamdaExpressionV3\\DelegateReview.LamdaExpressionV3.csproj",
+        "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LamdaExpressionV3\\DelegateReview.LamdaExpressionV3.csproj",
         "projectName": "DelegateReview.LamdaExpressionV3",
-        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LamdaExpressionV3\\DelegateReview.LamdaExpressionV3.csproj",
+        "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LamdaExpressionV3\\DelegateReview.LamdaExpressionV3.csproj",
         "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\DelegateReview.LamdaExpressionV3\\obj\\",
+        "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\DelegateReview.LamdaExpressionV3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LjmJxzW0lZxvldBw3o5ibI7O2sXumxIfZIztW9V8fUY5w9nEt6bzCWVXHB1/GEEVjC0Gl4fqcjk8FUumGJruRQ==",
+  "dgSpecHash": "6RpbsfzaiUhnC0Pb3ip7E8AgsmEqTHL2myncOr42VyzEFXRoOtaCLmNKXuwJ6k8n1W0q/EdWEQrQ+Om2rioYuQ==",
   "success": true,
-  "projectFilePath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\LoveStory\\LoveStory.csproj",
+  "projectFilePath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\LoveStory\\LoveStory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bolic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",

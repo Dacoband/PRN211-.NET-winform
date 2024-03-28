@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\LambdaExpression\\LambdaExpression.csproj",
+      "projectUniqueName": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\LambdaExpression\\LambdaExpression.csproj",
       "projectName": "LambdaExpression",
-      "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\LambdaExpression\\LambdaExpression.csproj",
+      "projectPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\LambdaExpression\\LambdaExpression.csproj",
       "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\DelegateInsideOut\\LambdaExpression\\obj\\",
+      "outputPath": "D:\\FPT_Learning\\PRN211\\PRN211_DotNet\\PRN211_NET1702\\Session05-DelegateInsideOut\\LambdaExpression\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
